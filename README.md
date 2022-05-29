@@ -1,9 +1,16 @@
-# Mineral-Rocks-Image-Classification
 
 <!-- PROJECT SHIELDS -->
 ![image](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![image](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![image](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+
+
+<div align="center">
+  <a href="https://github.com/othneildrew/Best-README-Template">
+    <img src="https://i.ibb.co/V2XG0Kt/logo.png" alt="Logo" width="80" height="80">
+  </a>
+  <h3 align="center">Minerals Rocks Image Classification</h3>
+</div>
 
 
 ![](https://i.imgur.com/waxVImv.png)
