@@ -21,8 +21,9 @@
 <p align="justify"> The aim of the project is to create an image dataset of minerals and rocks and train a model for their classification.
     The images are recovered through web scraping and from personal collections. After having downloaded them, each category is checked by hand to eliminate any non-compliant images
     <br>
- <img src="https://i.ibb.co/GtHY2wk/cnn.png" alt="cnn" border="0"></a>
-
+  <div align="center">
+    <img src="https://i.ibb.co/GtHY2wk/cnn.png" alt="cnn" border="0"></a>
+  </div>
 </p>
 
 ![](https://i.imgur.com/waxVImv.png)
