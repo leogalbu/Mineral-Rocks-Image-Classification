@@ -31,7 +31,7 @@
 <!-- ROADMAP -->
 <h2 id="roadmap"> :dart: Roadmap</h2>
 
-- [ ] Creation of the dataset containing images of minerals and rocks (Working on)
+- [ ] Creation of the dataset containing images of minerals and rocks (Working on). Source (Google, Bing, Mindat.org, Personal collection)
     - <details>
         <summary>Images recovered</summary>
 
@@ -79,7 +79,13 @@
 <!-- Training on small dataset -->
 <h2 id="trainingsmall"> 📁 Training on small dataset</h2>
 <p align="justify"> 
-  I created a basic model using a very simple architecture, without any regularization to see if I have a good starting point
+  I created a basic model using a very simple architecture, without any regularization to see if I have a good starting point.
+  The dataset has undergone a partial cleaning,  more complete check will be done later.
+  For the sake of simplicity i used 4 classes
+    * Bismuth
+    * Pyrite
+    * Quartz
+    * Realgar
     <br>
   <div align="center">
     <img src="https://i.ibb.co/MS3f1Pf/Immagine-2022-06-06-082707.png" alt="firsttrain" border="0"></a>
