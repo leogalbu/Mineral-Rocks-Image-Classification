@@ -64,7 +64,7 @@
         * crocoite
         * carnelia
       </details>
-- [ ] Clean the dataset
+- [ ] Clean the dataset (working on). First partial cleaning,
 - [ ] Train the model (python) and covert it for tensorflow js
 - [ ] Image pre-processing 
 - [ ] Data augmentation
