@@ -77,10 +77,10 @@
 
 ![](https://i.imgur.com/waxVImv.png
 <!-- Training on small dataset -->
-<h2 id="trainingsmall"> 📁: Training on small dataset</h2>
+<h2 id="trainingsmall"> 📁 Training on small dataset</h2>
 <p align="justify"> 
   I created a basic model using a very simple architecture, without any regularization to see if I have a good starting point
     <br>
   <div align="center">
-    <img src="[https://i.ibb.co/GtHY2wk/cnn.png](https://i.ibb.co/MS3f1Pf/Immagine-2022-06-06-082707.png)" alt="firsttrain" border="0"></a>
+    <img src="https://i.ibb.co/GtHY2wk/cnn.png](https://i.ibb.co/MS3f1Pf/Immagine-2022-06-06-082707.png" alt="firsttrain" border="0"></a>
  </div>
