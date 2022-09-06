@@ -77,6 +77,15 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 
+| Model Type                | Classes            | Description                                                                           |
+|---------------------------|--------------------|---------------------------------------------------------------------------------------|
+| CNN from scratch  model_1 | Quartz, Pyrite (2) | Start Simple - Build a custom CNN baseline model for a binary classification problem. |
+| Fine - Tuning  model_2    | Quartz, Pyrite (2) | Take the weights of a pretrained model and fine-tune to my problem.                   |
+| CNN from scratch  model_3 | 10                 | Same as model_1 but now its a multiclass problem                                      |
+| Fine - Tuning  model_4    | 10                 | Same as model_2 but now its a multiclass problem                                      |
+
+![](https://i.imgur.com/waxVImv.png)
+
 <!-- Training on small dataset - Starting with a binary classification problem - Quartz Pyrite -->
 <h2 id="trainingsmall"> 📁 Binary Classification Baseline Model</h2>
 <p align="justify">
