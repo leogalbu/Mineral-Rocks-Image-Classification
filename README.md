@@ -75,7 +75,8 @@
     - [ ] Converto it for tensorflow js
  - [ ] Develop Angular WebApp
 
-![](https://i.imgur.com/waxVImv.png
+![](https://i.imgur.com/waxVImv.png)
+
 <!-- Training on small dataset - Starting with a binary classification problem - Quartz Pyrite -->
 <h2 id="trainingsmall"> 📁 Binary Classification Baseline Model</h2>
 <p align="justify">
