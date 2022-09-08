@@ -94,6 +94,8 @@
 This architecture uses 3x3 convolution filter, starting with 32 filter incrementing up to 256. Max pooling was applied over a 2x2 pixel window after every convolutional layer. No techniques are applied to reduce overfitting (Dropout, data augmentation).
 Since i have a binary classification task, i use the binary crossentropy loss. As an optimizer, i use Adam optimizer. Then, i train (fit) the network with batch size 32 and 20 epochs.
 No callback is uesed (Es. EarlyStopping).
+We can see that the model overfits the test dataset. This is clear if we look at the plot of loss (Model loss, right plot), we can see that the model’s performance on the training dataset (red) continues to improve whereas the performance on the test dataset (green) improves, then starts to get worse at around 10 epochs.
+The results suggest that it may be useful to try techniques such as data augmentation as well as learning rate schedules, changes to the batch size, weight decay, changes model architecture and more.
 </p> 
 <img src="https://i.ibb.co/fGZ1X0v/model.png" alt="model_1_architecture" border="0"></a>
 <br>
