@@ -101,7 +101,7 @@ No callback is uesed (Es. EarlyStopping).
 <br>
 <img src="https://i.ibb.co/rHsLDGP/accuracy.png" alt="model_1_accuracy_loss_curves" border="0"></a>
 <br>
-<h3 align="justify"> Prediction plot</h3>
+<h3 align="justify"> Prediction plot (random images from google images)</h3>
 <h4>Pyrite</h4>
 <img src="https://i.ibb.co/cL7v2vS/pred-pir.png" alt="pred-pir" border="0"></a>
 <br>
