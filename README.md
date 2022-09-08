@@ -87,5 +87,16 @@
 ![](https://i.imgur.com/waxVImv.png)
 
 <!-- Training on small dataset - Starting with a binary classification problem - Quartz Pyrite -->
-<h2 id="trainingsmall"> 📁 Binary Classification Baseline Model</h2>
-<p align="justify">
+<h2 id="trainingsmall"> 📁 Binary Classification Baseline Model (Model_1)</h2>
+<h3 align="justify"> Model_1 Architecture</h3>
+<br>
+<p align="justify"> The first model is build from scratch.
+This architecture uses 3x3 convolution filter, starting with 32 filter incrementing up to 256. Max pooling was applied over a 2x2 pixel window after every convolutional layer. No techniques are applied to reduce overfitting (Dropout, data augmentation).
+Since i have a binary classification task, i use the binary crossentropy loss. As an optimizer, i use Adam optimizer. Then, i train (fit) the network with batch size 32 and 20 epochs.
+No callback is uesed (Es. EarlyStopping).
+</p> 
+![](https://ibb.co/jZq684R)
+<br>
+<h3 align="justify"> Model_1 Performance Plot</h3>
+<br>
+![](https://ibb.co/RcyMRpn)
