@@ -95,8 +95,8 @@ This architecture uses 3x3 convolution filter, starting with 32 filter increment
 Since i have a binary classification task, i use the binary crossentropy loss. As an optimizer, i use Adam optimizer. Then, i train (fit) the network with batch size 32 and 20 epochs.
 No callback is uesed (Es. EarlyStopping).
 </p> 
-![](https://ibb.co/jZq684R)
+<img src="https://ibb.co/jZq684R" alt="model_1_architecture" border="0"></a>
 <br>
 <h3 align="justify"> Model_1 Performance Plot</h3>
 <br>
-![](https://ibb.co/RcyMRpn)
+<img src="https://ibb.co/RcyMRpn" alt="model_1_accuracy_loss_curves" border="0"></a>
