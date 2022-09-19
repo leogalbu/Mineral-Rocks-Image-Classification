@@ -27,6 +27,10 @@
 </p>
 
 ![](https://i.imgur.com/waxVImv.png)
+<!-- TODO -->
+<h2 id="roadmap"> TODO:</h2>
+  * Define a utils.py file with all reusable fucntions like plotting, load data.
+![](https://i.imgur.com/waxVImv.png)
 
 <!-- ROADMAP -->
 <h2 id="roadmap"> :dart: Roadmap</h2>
