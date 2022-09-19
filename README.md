@@ -28,8 +28,10 @@
 
 ![](https://i.imgur.com/waxVImv.png)
 <!-- TODO -->
+
 <h2 id="roadmap"> TODO:</h2>
-  * Define a utils.py file with all reusable fucntions like plotting, load data.
+  - Define a utils.py file with all reusable fucntions like plotting, load data.
+  
 ![](https://i.imgur.com/waxVImv.png)
 
 <!-- ROADMAP -->
@@ -99,15 +101,15 @@ This architecture uses 3x3 convolution filter, starting with 32 filter increment
 Since i have a binary classification task, i use the binary crossentropy loss. As an optimizer, i use Adam optimizer. Then, i train (fit) the network with batch size 32 and 20 epochs.
 No callback is uesed (Es. EarlyStopping).
 </p> 
-<img src="https://i.ibb.co/fGZ1X0v/model.png" alt="model_1_architecture" border="0"></a>
+<img src="https://i.ibb.co/fGZ1X0v/model.png" alt="model_1_architecture" border="0"></img>
 <br>
 <h3 align="justify"> Model_1 Performance Plot</h3>
 <br>
-<img src="https://i.ibb.co/rHsLDGP/accuracy.png" alt="model_1_accuracy_loss_curves" border="0"></a>
+<img src="https://i.ibb.co/rHsLDGP/accuracy.png" alt="model_1_accuracy_loss_curves" border="0"></img>
 <br>
 <h3 align="justify"> Prediction plot (random images from google images)</h3>
 <h4>Pyrite</h4>
-<img src="https://i.ibb.co/cL7v2vS/pred-pir.png" alt="pred-pir" border="0"></a>
+<img src="https://i.ibb.co/cL7v2vS/pred-pir.png" alt="pred-pir" border="0"></img>
 <br>
 <h4>Quartz</h4>
-<img src="https://i.ibb.co/SJqMHVN/pred-qz.png" alt="pred-qz" border="0"></a>
+<img src="https://i.ibb.co/SJqMHVN/pred-qz.png" alt="pred-qz" border="0"></img>
